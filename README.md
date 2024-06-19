@@ -1,11 +1,11 @@
 ## Headings
 ```md
-# Heading 1 , title
-## Heading 2, major headings
-### Heading 3, subheadings
-#### Heading 4, 4th level subheadings
-##### Heading 5, 5th level subheadings
-###### Heading 6, 6th level subheadings
+# Heading 1 , Title
+## Heading 2, Major Headings
+### Heading 3, Subheadings
+#### Heading 4, 4th Level Subheadings
+##### Heading 5, 5th Level Subheadings
+###### Heading 6, 6th Level Subheadings
 ```
 ## Plain text
 ```
